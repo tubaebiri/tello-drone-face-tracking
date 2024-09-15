@@ -16,15 +16,12 @@ Bu Python kodu, DJI Tello dronunu yüz takibi yapmak için kullanmanızı sağla
 - facetracking.py dosyasını çalıştırın.
 - Dronu kontrol etmeye başlamadan önce dronu kalkış yapacak şekilde konumlandırın.
 - Program çalışırken, dronun yüzü takip ettiğini ve yüzün ekranın ortasında kalmasını sağladığını göreceksiniz.
-- Programı durdurmak için q tuşuna basın. Bu, dronu inişe geçirecektir.
+- Programı durdurmak için " q " tuşuna basın. Bu, dronu inişe geçirecektir.
 
 ## Video
 Dronun yüz takibi yaparken çalıştığı  ekran kaydını aşağıdaki bağlantıdan izleyebilirsiniz:
 
-
-
-https://github.com/user-attachments/assets/0f8273ae-dd37-4ab7-84fb-59976f25b92b
-
+https://github.com/user-attachments/assets/84c536b5-35d3-4f00-9158-275bf4a1ed12
 
 
 ## Yararlanılan Kaynaklar
